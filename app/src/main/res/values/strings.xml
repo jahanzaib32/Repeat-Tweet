@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Repeat Tweet</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="ob_header1">WORK LESS, DO MORE!</string>
+    <string name="ob_header2">SETUP TWTTTER</string>
+    <string name="ob_header3">FACEBOOK AUTHORIZATION</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">Work smartly and reach all customers at one place.</string>
+    <string name="ob_desc2">Setup Twitter for tweets on your account.</string>
+    <string name="ob_desc3">Facebook pages were never so easy to manage before!</string>
+
+    <string name="facebook_app_id">FILLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL</string>
+    <string name="fb_login_protocol_scheme">FILLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL</string>
+
+    <string name="count_initial_value">0</string>
+    <string name="button_label">Send</string>
+    <string name="toast_message">Hurra!</string>
+
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">FILLLLLLLLLLLLLLLL</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">FILLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL</string>
+
+</resources>

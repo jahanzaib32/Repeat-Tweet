@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/settings">
+        <item android:id="@+id/message_drawer"
+            android:title="Message Setting"
+            android:icon="@drawable/msg_drawer_icon"></item>
+
+        <item android:id="@+id/twitter_drawer"
+            android:title="Twitter Account"
+            android:icon="@drawable/twtr_drawer_icon"></item>
+
+        <item android:id="@+id/fb_drawer"
+            android:title="Facebook Account"
+            android:icon="@drawable/fb_drawer_icon"></item>
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/help">
+        <item android:id="@+id/contact_drawer"
+            android:title="Contact us!"
+            android:icon="@drawable/ic_icons8_support"></item>
+
+        <item android:id="@+id/about_drawer"
+            android:title="About"
+            android:icon="@drawable/ic_icons8_about"></item>
+    </group>
+</menu>
